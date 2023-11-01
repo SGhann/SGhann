@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SGhann
 - 👀 I’m interested in Machine Learnig, Large Language Models and all things AI/ AGI
-- 🌱 I’m currently learning Neural Networks
+- 🌱 I’m currently learning Neural Networks and Deep Learning
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me ...
 
